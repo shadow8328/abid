@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 <meta charset="UTF-8">
-<title>Message for You</title>
 <style>
-body {
+html, body {
 margin: 0;
-background-color: white;
+padding: 0;
+height: 100%;
+background: white;
 display: flex;
 justify-content: center;
 align-items: center;
-height: 100vh;
 font-family: Arial, sans-serif;
 }
 .message {
 text-align: center;
-font-size: 24px;
-color: #333;
-max-width: 600px;
+font-size: 22px;
+color: #000;
+line-height: 1.6;
 }
 </style>
 </head>
